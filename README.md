@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Arthur! </h1>
 <h3 align="center">Software Engineer | Designer | Work in Progress</h3>
+<br>
 
 <h2 align="left">
   About Me
@@ -14,8 +15,7 @@
 
 
 <h2 align="left"> I’m currently working on... </h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurCisotto&repo=insper&theme=dracula)](https://github.com/ArthurCisotto/insper)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurCisotto&repo=insper&theme=dracula&show_owner=true"/>
 
 <br>
 <h2 align="left">
