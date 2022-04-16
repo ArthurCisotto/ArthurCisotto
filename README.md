@@ -10,7 +10,13 @@
 - Developer in progress. Also really interested in graphic design.
 - I love language learning, and that translates really well into programming languages!
 
-  
+<br>
+
+
+<h2 align="left"> I’m currently working on... </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurCisotto&repo=insper&theme=dracula)](https://github.com/ArthurCisotto/insper)
+
 <br>
 <h2 align="left">
   My Statistics
