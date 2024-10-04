@@ -3,7 +3,7 @@
 <br>
   
 # 💫 About Me:
-I'm a 20 year old from Brazil.<br>Currently an second year undergraduate Computer Engineering student  @[Insper](https://insper.edu.br).<br>Developer in progress. Also really interested in graphic design.<br>I love language learning, and that translates really well into programming languages!
+I'm a 21 year old from Brazil.<br>Currently an second year undergraduate Computer Engineering student  @[Insper](https://insper.edu.br).<br>Developer in progress. Also really interested in graphic design.<br>I love language learning, and that translates really well into programming languages!
 
 
 ## 🌐 Socials:
